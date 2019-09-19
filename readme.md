@@ -42,3 +42,14 @@ git push -u origin master
 三、随便输入一个Title名字，然后打开id_rsa.pub文件，把文件内容复制到key的输入框中，保存，如图5。至此公钥设置完成。
 
 四、打开git bash窗口，执行命令“ssh -T git@github.com”，然后输入yes。如图6。至此本地私钥设置完成。
+
+
+
+### 分支
+1、查看分支
+`git branch`
+2、创建分支
+`git checkout -b branchname`
+3、切换分支
+`git checkout branchname`
+
