@@ -28,7 +28,9 @@ git push -u origin master
 三、按三次回车后完成收工，如图2。
 
 四、按提示的目录找到对应的两个文件，分别为私钥和公钥，如图1。
- ![Alt](https://img-blog.csdnimg.cn/20190706223006129.png)
+
+![Alt](https://img-blog.csdnimg.cn/20190706223006129.png)
+
 图1 
 
 
