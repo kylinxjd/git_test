@@ -19,3 +19,24 @@ git push -u origin master
 ```
 
 ### SSH设置
+
+#### 生成公钥和私钥
+一、打开git bash。
+
+二、执行命令ssh-keygen -t rsa -C "邮箱"。
+
+三、按三次回车后完成收工，如图2。
+
+四、按提示的目录找到对应的两个文件，分别为私钥和公钥，如图1。
+ ![Alt](https://img-blog.csdnimg.cn/20190706223006129.png)
+图1 
+
+
+#### 使用公钥和私钥
+一、登录GitHub账号并打开settings，如图3。
+
+二、打开“SSH and GPG keys”页签，然后点击“new key”，如图4。
+
+三、随便输入一个Title名字，然后打开id_rsa.pub文件，把文件内容复制到key的输入框中，保存，如图5。至此公钥设置完成。
+
+四、打开git bash窗口，执行命令“ssh -T git@github.com”，然后输入yes。如图6。至此本地私钥设置完成。
