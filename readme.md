@@ -53,3 +53,10 @@ git push -u origin master
 3、切换分支
 `git checkout branchname`
 
+
+4、将远程master代码下载到本地
+`git pull`
+5、将其他分支合并到master
+`git merge newbranch`
+
+
