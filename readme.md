@@ -60,3 +60,14 @@ git push -u origin master
 `git merge newbranch`
 
 
+
+
+
+
+
+
+
+
+
+git pull ceshi
+
