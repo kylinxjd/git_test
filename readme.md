@@ -48,14 +48,16 @@ git push -u origin master
 ### 分支
 1、查看分支
 `git branch`
+
 2、创建分支
 `git checkout -b branchname`
+
 3、切换分支
 `git checkout branchname`
 
-
 4、将远程master代码下载到本地
 `git pull`
+
 5、将其他分支合并到master
 `git merge newbranch`
 
