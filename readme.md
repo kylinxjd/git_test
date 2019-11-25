@@ -47,13 +47,13 @@ git push -u origin master
 
 ### 分支
 1、查看分支
-`git branch`
+`git branch` \n
 
 2、创建分支
-`git checkout -b branchname`
+`git checkout -b branchname`  \r\n
 
 3、切换分支
-`git checkout branchname`
+`git checkout branchname`    \r\n
 
 4、将远程master代码下载到本地
 `git pull`
