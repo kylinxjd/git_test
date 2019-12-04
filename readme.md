@@ -59,10 +59,13 @@ git push -u origin master
 `git pull`
 
 5、将其他分支合并到master
+
 `git merge newbranch`
 
 
-`git merge newbranch --squash`  --squash合并的时候不会将newbranch的commit记录带到当前分支，所以当前分支需要总结再commit一次。
+`git merge newbranch --squash`  
+
+--squash合并的时候不会将newbranch的commit记录带到当前分支，所以当前分支需要总结再commit一次。
 
 
 
