@@ -108,6 +108,33 @@ git push -u origin master
 7. drop：我要丢弃该commit（缩写:d）
 
 
+我们编辑内容如下：
+
+
+![alt](https://upload-images.jianshu.io/upload_images/2147642-a651234e62ed20a5.png)
+
+
+然后修改注释
+
+
+
+
+
+1[alt](https://upload-images.jianshu.io/upload_images/2147642-44bbd784dcadfb31.png)
+
+
+
+编辑完保存就可以合并了：
+
+
+
+![alt](https://upload-images.jianshu.io/upload_images/2147642-334e0a5c47a24f87.png)
+
+
+
+
+
+
 
 
 git pull ceshi
