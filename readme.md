@@ -120,7 +120,7 @@ git push -u origin master
 
 
 
-1[alt](https://upload-images.jianshu.io/upload_images/2147642-44bbd784dcadfb31.png)
+![alt](https://upload-images.jianshu.io/upload_images/2147642-44bbd784dcadfb31.png)
 
 
 
