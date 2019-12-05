@@ -74,7 +74,9 @@ git push -u origin master
 
 链接：https://www.jianshu.com/p/4a8f4af4e803
 
+我们希望把如下分支B、C、D三个提交记录合并为一个完整的提交，然后再push到公共仓库。
 
+![Alt](https://upload-images.jianshu.io/upload_images/2147642-42195cacced56729.png)
 
 
 
