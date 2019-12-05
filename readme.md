@@ -69,6 +69,11 @@ git push -u origin master
 
 
 
+### 合并多个已提交的commit为一个commit
+
+
+链接：https://www.jianshu.com/p/4a8f4af4e803
+
 
 
 
