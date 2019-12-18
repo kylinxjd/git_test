@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <report id="qc_certificate_report"
+            model="toto.qc.certificate"
+            string="QC Certificates"
+            report_type="qweb-html"
+            name="toto_qc.qc_certificate_template"
+            menu="True"/>
+
+    <!-- string:是报表在菜单上的文字。 -->
+    <!-- name:要写template的xmlid，8、9版本都不能省略模块名。 -->
+    <!-- menu:用于控制是否显示在打印菜单，默认True -->
+<!--    <report id="_report_"-->
+<!--            model=""-->
+<!--            string=""-->
+<!--            report_type="qweb-html"-->
+<!--            name=""-->
+<!--            menu=""/>-->
+<!--    -->
+    <report id="work_instruction_preview_certificate"
+            model="toto.qc.work.instruction"
+            string="Preview Certificates"
+            name="toto_qc.qc_certificate_preview_template"
+            report_type="qweb-html"
+            menu="True"/>
+</odoo>
